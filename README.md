@@ -1,2 +1,2 @@
 # hax-templates
-Templates for my has
+Templates for my hax.
